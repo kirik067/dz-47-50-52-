@@ -1,0 +1,15 @@
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.csproj.AssemblyReference.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.AssemblyInfoInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.AssemblyInfo.cs
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.csproj.CoreCompileInputs.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\bin\Debug\net7.0\dz,47,50,52.exe
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\bin\Debug\net7.0\dz,47,50,52.deps.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\bin\Debug\net7.0\dz,47,50,52.runtimeconfig.json
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\bin\Debug\net7.0\dz,47,50,52.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\bin\Debug\net7.0\dz,47,50,52.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\refint\dz,47,50,52.dll
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.pdb
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\dz,47,50,52.genruntimeconfig.cache
+C:\Users\tvoag\Desktop\Rabota\git\C#\dz,47,50,52\obj\Debug\net7.0\ref\dz,47,50,52.dll
